@@ -1,3 +1,4 @@
 .DS_Stored
 .vscode
 locustfile.pyc
+config.json
